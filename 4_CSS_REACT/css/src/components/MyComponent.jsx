@@ -1,6 +1,10 @@
+import './MyComponent.css'
+
 const MyComponent = () => {
   return (
-    <div>MyComponent</div>;
+    <div>
+      <h2>Frase estilizada dentro do MyComponent</h2>
+    </div>
   )
 }
 
